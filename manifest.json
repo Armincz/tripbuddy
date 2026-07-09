@@ -1,0 +1,9 @@
+{
+  "name": "TripBuddy OS",
+  "short_name": "TripBuddy",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#06060c",
+  "theme_color": "#06060c",
+  "orientation": "portrait"
+}
